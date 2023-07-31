@@ -1,0 +1,12 @@
+
+pandas
+librosa
+ffmpeg
+numba
+numpy
+matplotlib
+tensorflow
+Keras
+Pillow
+xlrd
+notebook
